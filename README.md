@@ -1,4 +1,4 @@
-# Hello there! 👋 I'm Bianca Bai ---
+# Hello there! 👋 I'm Bianca Bai -
 
 ### A high school student who is passionate about programming!
 
