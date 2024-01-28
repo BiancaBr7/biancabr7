@@ -2,7 +2,7 @@
 
 ### A high school student who is passionate about programming!
 
-- 💪 I can code in: Python, C++, JS ([My Projects](https://biancabr7.github.io/projects))
+- 💪 Programming Languages I use: Python, C++, JS, Gd Script ([My Projects](https://biancabr7.github.io/projects))
 - 💻 Interests: coding, music, art ([Learn More](https://biancabr7.github.io/hobbies))
 - 📫 How to reach me: [Contact Page](https://biancabr7.github.io/contact)
 - ⚡ Fun fact: I am a huge Star Wars fan🚀! My favorite film is Revenge of the Sith  *(yeah, I know it's dark...🌋)*. My favorite character is Anakin.
