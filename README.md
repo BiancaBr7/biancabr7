@@ -1,6 +1,6 @@
-# Hello there! 👋 I'm Bianca Bai
+# Hello there! 👋 I'm Bianca Bai ---
 
-### I'm a high school student who is passionate about programming!
+### A high school student who is passionate about programming!
 
 - 💪 I can code in: Python, C++, JS ([My Projects](https://biancabr7.github.io/projects))
 - 💻 Interests: coding, music, art ([Learn More](https://biancabr7.github.io/hobbies))
