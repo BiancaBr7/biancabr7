@@ -1,10 +1,11 @@
 # Hello there! 👋 I'm Bianca Bai,
 
-### A high school student who is passionate about programming!
+### Software Engineering Student in UWaterloo
 
-- 💪 Programming Languages I use: Python, C++, JS, Gd Script ([My Projects](https://biancabr7.github.io/projects))
+- 💪 Programming Languages I use: Python, C, C++, Java, JavaScript, TypeScript, Go ([My Projects](https://biancabr7.github.io/projects))
 - 💻 Interests: coding, music, art ([Learn More](https://biancabr7.github.io/hobbies))
 - 📫 How to reach me: [Contact Page](https://biancabr7.github.io/contact)
+- 🔭 I’m currently working on EyeSee, an street view image text recognizer using self-trained custom CRNN model.
 - ⚡ Fun fact: I am a huge Star Wars fan🚀! My favorite film is Revenge of the Sith  *(yeah, I know it's dark...🌋)*. My favorite character is Anakin.
 
 ### More About Me, feel free to explore my site at [biancabr7.github.io](https://biancabr7.github.io)
