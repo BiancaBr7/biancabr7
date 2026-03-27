@@ -5,7 +5,8 @@
 - 💪 Programming Languages I use: Python, C, C++, Java, JavaScript, TypeScript, Go ([My Projects](https://biancabr7.github.io/projects))
 - 💻 Interests: coding, music, art ([Learn More](https://biancabr7.github.io/hobbies))
 - 📫 How to reach me: [Contact Page](https://biancabr7.github.io/contact)
-- 🔭 I’m currently working on Feelogue, a mood logging mobile application using self-trained model.
+- 👜 I’m currently working as an Intern SWE at Shopify.
+- 🤖 Currently working on a smart home assistant utilizing an esp32 board as personal project
 - ⚡ Fun fact: I am a huge Star Wars fan🚀! My favorite film is Revenge of the Sith  *(yeah, I know it's dark...🌋)*. My favorite character is Anakin.
 
 ### More About Me, feel free to explore my site at [biancabr7.github.io](https://biancabr7.github.io)
