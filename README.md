@@ -16,10 +16,10 @@
 
 ### 👩‍💻 About Me
 
-I'm an engineering student passionate about building highly scalable software and bridging the gap between intricate hardware and seamless user experiences. 
+I'm a software engineering student @UWaterloo. I love building cool things!
 
 - 💼 **Next Stop:** Returning to **Shopify** as a Software Engineering Intern (Fall '26).
-- 🛠️ **What I'm building:** Custom hardware, 3D printing, and writing code that bridges the physical and digital. 
+- 🛠️ **What I'm building:** Exploring custom hardware, 3D printing, and writing code that bridges the physical and digital. 
 - 🤖 **Latest Release:** A smart home assistant utilizing an ESP32 board. Check out the [video demo](https://www.youtube.com/watch?v=n40HbZ-5FD8)!
 - ⚡ **Fun Fact:** I'm a massive Star Wars fan! My favorite film is *Revenge of the Sith* (yes, I embrace the heartbreak and the lava 🌋), and Anakin is my absolute favorite character.
 
